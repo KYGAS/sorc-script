@@ -45,17 +45,28 @@ Enjoy open source :)
 - - - autolances
 
 ## Issues
+
 - //
 
 
 ### Features
+
 +Allows you to tap  Arcane Pulse and  Mana Siphon. Supreme Sorcerer will fully charge and release the skill automatically at the perfect time.
+
 +Blocks the use of  Arcane Pulse if you would run out of MP during charge, preventing you from undercharging it.
+
 +While in range, instantly hit bosses with  Arcane Pulse,  Ice Lances and  Void Pulse.
+
 +Instant lock-on and cast for  Flaming Barrage and  Mana Volley.
+
 +Toggleable function to automatically use  Ice Lances off cooldown while in combat with a boss.
+
 +Toggleable macro to automatically use  Ice Lances after  Arcane Pulse cast,  Nova cast or both.
+
 -Custom Anti BodyBlock in Dungeons
+
 -Toggleable function to force  Prime Flame as your 2 Element Fusion, preventing  Arcane Storm and  Iceberg.
+
 -Toggleable function to use  Prime Flame during  Mana Boost off cooldown when you use  Fusion, which does not consume current elements.
+
 -Automatically cancels  Implosion without requiring  Backstep or  Teleport Jaunt.

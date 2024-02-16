@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Sorcerer Script",
+    "author": "KYGAS",
+    "description": "Fast Sorcerer.",
+    "version": "1",
+    "options": {
+        "niceName": "Sorcerer Script",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    }
+}
